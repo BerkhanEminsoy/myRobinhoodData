@@ -1,1 +1,0 @@
-Paste your Robinhood API bearer token here and rename this file to "token.txt".
